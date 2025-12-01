@@ -53,7 +53,7 @@ function ListaTreinos() {
         },
         {
             id: "6",
-            nome: "Pullovaer",
+            nome: "Pullover",
             reps: 10,
             peso: 40,
             series: 4,

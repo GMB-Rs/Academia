@@ -59,17 +59,16 @@ function CardTreino({
   };
 
   return (
-    <div className="w-96">
+    <div className="w-screen max-w-none px-0 mx-0 box-border">
       <Card
-        className={`w-full rounded-sm p-2 transition-all border-2 
-        ${checked ? "border-green-500 shadow-md" : "border-transparent"}
-    `}
-
+        className={`w-full rounded-none p-2 transition-all border-l-8 
+        ${checked ? "border-green-500 shadow-md" : "border-transparent"}`}
       >
-        <CardContent className="flex flex-col gap-3">
+        <CardContent className="flex flex-wrap items-start gap-3">
+          
           {/* HEADER MOBILE */}
           <div
-            className="flex sm:hidden justify-between items-center cursor-pointer"
+            className="flex sm:hidden justify-between items-center cursor-pointer w-full"
             onClick={() => setOpen(!open)}
           >
             <CardTitle>{data.nome}</CardTitle>
@@ -80,7 +79,7 @@ function CardTreino({
           <div
             className={`${
               !open ? "hidden sm:flex" : "flex"
-            } justify-between items-start`}
+            } justify-between items-start w-full`}
           >
             {/* IMG + INFO */}
             <div className="flex items-center gap-3">
