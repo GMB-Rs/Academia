@@ -61,7 +61,7 @@ function CardTreino({
   return (
     <div className="w-full">
       <Card
-        className={`w-full rounded-sm p-2 transition-all border-2 
+        className={`w-96 rounded-sm p-2 transition-all border-2 
         ${checked ? "border-green-500 shadow-md" : "border-transparent"}
     `}
 
