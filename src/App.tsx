@@ -1,5 +1,4 @@
 import "./App.css";
-import CardTreino from "./components/CardTreino";
 import ListaTreinos from "./components/ListaTreinos";
 
 function App() {

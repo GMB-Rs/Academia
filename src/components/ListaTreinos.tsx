@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import CardTreino from "./CardTreino";
 import { Select, SelectTrigger, SelectContent, SelectItem, SelectValue } from "./ui/select";
 

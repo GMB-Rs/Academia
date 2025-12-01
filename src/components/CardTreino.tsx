@@ -2,13 +2,6 @@ import { useState, useEffect } from "react";
 import { Card, CardContent, CardDescription, CardTitle } from "./ui/card";
 import { Checkbox } from "./ui/checkbox";
 import { ChevronDown, ChevronUp, Pencil, Check } from "lucide-react";
-import {
-  Select,
-  SelectTrigger,
-  SelectContent,
-  SelectItem,
-  SelectValue,
-} from "./ui/select";
 import { Input } from "./ui/input";
 import { Button } from "./ui/button";
 
