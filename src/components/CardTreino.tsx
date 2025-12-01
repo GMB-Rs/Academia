@@ -61,10 +61,9 @@ function CardTreino({
   return (
     <div className="flex justify-center items-center">
       <Card
-        className={`w-96 max-w-full rounded-sm p-2 overflow-hidden 
-                ${
-                  checked ? "border-l-4 border-l-green-500" : "border"
-                }`}
+        className={`w-full max-w-96 mx-auto rounded-sm p-2 transition-all border-2
+        ${checked ? "border-green-500 shadow-md" : "border-transparent"}
+    `}
       >
         <CardContent className="flex flex-col gap-3">
           {/* HEADER MOBILE */}
