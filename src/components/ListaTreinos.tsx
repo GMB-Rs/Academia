@@ -630,7 +630,7 @@ function ListaTreinos() {
         <div className="flex flex-col gap-6 items-center mt-6">
 
             {/* SELECT DE FILTRO */}
-            <div className="w-64">
+            <div>
                 <Select onValueChange={(val) => setFiltro(val)}>
                     <SelectTrigger>
                         <SelectValue placeholder="Filtrar por grupo" />
