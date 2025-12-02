@@ -19,7 +19,7 @@ function ListaTreinos() {
       peso: 20,
       series: 3,
       grupo: "Peito",
-      img: "https://static.wixstatic.com/media/2edbed_957092a2739c4ae6823391e9d64f8608~mv2.jpg/v1/fill/w_360,h_360,al_c,q_80,enc_avif,quality_auto/2edbed_957092a2739c4ae6823391e9d64f8608~mv2.jpg",
+      img: "https://www.flex.ind.br/wp-content/uploads/2016/09/banco-supino-reto-articulado-flex-fitness.png",
     },
     {
       id: "2",
@@ -28,7 +28,7 @@ function ListaTreinos() {
       peso: 30,
       series: 4,
       grupo: "Peito",
-      img: "https://i.imgur.com/1TzqpW4.jpeg",
+      img: "https://www.origym.com.br/produtos/461/supino-inclinado-plate-max-746710.png",
     },
     {
       id: "3",
@@ -37,7 +37,7 @@ function ListaTreinos() {
       peso: 30,
       series: 4,
       grupo: "Peito",
-      img: "https://i.imgur.com/1TzqpW4.jpeg",
+      img: "https://astracomercio.com.br/wp-content/uploads/2024/07/ffd700-2024-07-09T104937.311.png",
     },
     {
       id: "4",
@@ -46,7 +46,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Peito",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://cdn.awsli.com.br/600x450/673/673988/produto/141304083/9c2c9e611b.jpg",
     },
     {
       id: "5",
@@ -55,7 +55,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Peito",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://static.strengthlevel.com/images/exercises/dumbbell-fly/dumbbell-fly-800.jpg",
     },
     {
       id: "6",
@@ -64,7 +64,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Peito",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://img.irroba.com.br/filters:fill(fff):quality(80)/natuoaeu/catalog/produtos-2025/academia/equipamentos-de-musculacao/linha-pl/cst-pl26/pl26-1.jpg",
     },
     {
       id: "7",
@@ -73,7 +73,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Peito",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://www.agrotama.com.br/upload/novo_produtos/crossover150kgtandermachine50x50mm_102031567.jpg",
     },
     {
       id: "8",
@@ -82,7 +82,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Peito",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHmehicbHCER_U61go6JY82___MkMk0nrE1g&s",
     },
     {
       id: "9",
@@ -91,7 +91,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Peito",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://cdn.palbincdn.com/users/7230/images/Press-Declinado-1-1484746045.jpg",
     },
     {
       id: "10",
@@ -100,7 +100,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Peito",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://www.flex.ind.br/wp-content/uploads/2019/10/chest-press-supreme-fitness-biarticulado.png",
     },
     {
       id: "11",
@@ -109,7 +109,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Peito",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "",
     },
     {
       id: "12",
@@ -118,7 +118,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Costas",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://images.tcdn.com.br/img/img_prod/450774/180_aparelho_puxada_alta_e_baixa_conjugada_para_musculacao_ultrawod_1222_variacao_2067_1_20e20b4b44d196a7ab271392420b1e5d.jpg",
     },
     {
       id: "13",
@@ -127,7 +127,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Costas",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://images.tcdn.com.br/img/img_prod/450774/180_aparelho_puxada_alta_e_baixa_conjugada_para_musculacao_ultrawod_1222_variacao_2067_1_20e20b4b44d196a7ab271392420b1e5d.jpg",
     },
     {
       id: "14",
@@ -136,7 +136,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Costas",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://cdn.awsli.com.br/600x450/363/363752/produto/26559776/remada-baixa---axis-vjnnbk8qfw.png",
     },
     {
       id: "15",
@@ -145,7 +145,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Costas",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG1UejMDJAezBylx3zNTJdBt1qWYY8CvrahQ&s",
     },
     {
       id: "16",
@@ -154,7 +154,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Costas",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://supertechfitness.com.br/wp-content/uploads/2025/03/voador-dorsal-02.jpg",
     },
     {
       id: "17",
@@ -163,7 +163,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Costas",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4zZ7DeiEcsy8ZyDFqpar6HucLAAh2FJkFmA&s",
     },
     {
       id: "18",
@@ -172,7 +172,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Costas",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://static1.minhavida.com.br/articles/14/ab/68/7c/lio-putrashutterstock-select-an-image-orig-1.jpg",
     },
     {
       id: "19",
@@ -181,7 +181,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Costas",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://www.flex.ind.br/wp-content/uploads/2014/07/remada-sentada-articulada-peso-livre.png",
     },
     {
       id: "20",
@@ -190,7 +190,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Costas",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://s3assets.skimble.com/assets/2957598/image_full.jpg",
     },
     {
       id: "21",
@@ -199,7 +199,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Costas",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://img.medicalexpo.com/pt/images_me/photo-mg/113129-20263236.jpg",
     },
     {
       id: "22",
@@ -208,7 +208,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Tríceps",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://www.lyfta.app/_next/image?url=https%3A%2F%2Flyfta.app%2Fimages%2Fexercises%2F24381101.png&w=640&q=80",
     },
     {
       id: "23",
@@ -217,7 +217,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Tríceps",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://www.lyfta.app/_next/image?url=%2Fthumbnails%2F02071201.jpg&w=3840&q=75",
     },
     {
       id: "24",
@@ -226,16 +226,16 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Tríceps",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://treinomestre.com.br/wp-content/uploads/2022/01/pegada-pronada.png",
     },
     {
       id: "25",
-      nome: "Tríceps Teste",
+      nome: "Tríceps Testa",
       reps: 10,
       peso: 40,
       series: 4,
       grupo: "Tríceps",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://cdn.shopify.com/s/files/1/0005/5335/3267/files/shoulder_5_large.jpg",
     },
     {
       id: "26",
@@ -244,7 +244,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Tríceps",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://edfisicadozero.com/wp-content/uploads/2025/08/Design-sem-nome-47-1024x819.webp",
     },
     {
       id: "27",
@@ -253,7 +253,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Tríceps",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK2rKc5KBGqj0SBjGiZ2zpbrGg-A7FGpcbeQ&s",
     },
     {
       id: "28",
@@ -262,7 +262,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Tríceps",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://www.lyfta.app/_next/image?url=https%3A%2F%2Flyfta.app%2Fimages%2Fexercises%2F00191101.png&w=3840&q=75",
     },
     {
       id: "29",
@@ -271,7 +271,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Tríceps",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://cdn.awsli.com.br/2500x2500/363/363752/produto/24937120/8cbc1244be.jpg",
     },
     {
       id: "30",
@@ -280,7 +280,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Ombro/Trapézio",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIoUR_OYEucxycItwk68mc1TPCpSNvp14-LA&s",
     },
     {
       id: "31",
@@ -289,7 +289,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Ombro/Trapézio",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://www.shutterstock.com/image-illustration/dumbbell-front-raise-shoulders-exercise-600nw-2327162161.jpg",
     },
     {
       id: "32",
@@ -298,7 +298,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Ombro/Trapézio",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://i.pinimg.com/736x/2e/c9/e7/2ec9e7fcac8df4dcdba82bcefdf38e62.jpg",
     },
     {
       id: "33",
@@ -307,7 +307,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Ombro/Trapézio",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://anabolicaliens.com/cdn/shop/articles/5ee17b445694cd8620bba313_dumbbell-shrug-exercise-anabolic-aliens-p-500.png?v=1644921383",
     },
     {
       id: "34",
@@ -316,7 +316,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Ombro/Trapézio",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://static.strengthlevel.com/images/exercises/cable-upright-row/cable-upright-row-800.jpg",
     },
     {
       id: "35",
@@ -325,7 +325,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Ombro/Trapézio",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://static.strengthlevel.com/images/exercises/machine-reverse-fly/machine-reverse-fly-800.jpg",
     },
     {
       id: "36",
@@ -334,7 +334,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Ombro/Trapézio",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://static.strengthlevel.com/images/exercises/machine-lateral-raise/machine-lateral-raise-800.jpg",
     },
     {
       id: "37",
@@ -343,7 +343,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Bíceps",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://static1.minhavida.com.br/articles/a0/79/bd/2f/makatserchykshutterstock-orig-1.jpg",
     },
     {
       id: "38",
@@ -352,7 +352,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Bíceps",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://static1.minhavida.com.br/articles/28/af/90/ef/65ef2fafd8480cdibqbudriorcr3wdflcvylxsylx3bo-65eivbmdzes-kzmnxjxs-enswzgv0ycxejtiworoosmdjtfhryeoittuobpp-0dcd9uy5ict6-wn0scgyzcer4dh5-utdyttssmhcptipfb2gpyqamxafsu-orig-1-orig-1.",
     },
     {
       id: "39",
@@ -361,7 +361,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Bíceps",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://i0.wp.com/meutreinador.com/wp-content/uploads/2023/11/134_Rosca-concentrada-na-maquina.jpg?fit=693%2C392&ssl=1",
     },
     {
       id: "40",
@@ -370,7 +370,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Bíceps",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://lsssaudeblog.wordpress.com/wp-content/uploads/2017/05/images-35.jpg?w=290",
     },
     {
       id: "41",
@@ -379,7 +379,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Bíceps",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://www.hipertrofia.org/blog/wp-content/uploads/2024/10/rosca-martelo.jpg",
     },
     {
       id: "42",
@@ -388,7 +388,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Bíceps",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://www.xfitnessequipamentos.com.br/wp-content/uploads/2023/10/banco-scott.jpg",
     },
     {
       id: "43",
@@ -397,7 +397,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Bíceps",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://static.strengthlevel.com/images/exercises/machine-bicep-curl/machine-bicep-curl-800.jpg",
     },
     {
       id: "44",
@@ -406,7 +406,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Bíceps",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://image.tuasaude.com/media/article/kr/cn/rosca-martelo_75628.gif?width=686&height=487",
     },
     {
       id: "45",
@@ -415,7 +415,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Perna",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://cdn.awsli.com.br/329/329912/produto/324075423/66f165_6a448ae8f8374f958539233845ca7163-mv2-photoroom-uxe9s9pvw2.png",
     },
     {
       id: "46",
@@ -424,7 +424,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Perna",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://images.tcdn.com.br/img/img_prod/1227790/leg_press_45_luminafit_lt56_lt1023_lt2056_treino_de_pernas_profissional_839_1_3a6190d432d7639c64dfb7c42fc8bff2.jpg",
     },
     {
       id: "47",
@@ -433,7 +433,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Perna",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://static.strengthlevel.com/images/exercises/horizontal-leg-press/horizontal-leg-press-800.jpg",
     },
     {
       id: "48",
@@ -442,7 +442,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Perna",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://www.hipertrofia.org/blog/wp-content/uploads/2024/12/cadeira-flexora.gif",
     },
     {
       id: "49",
@@ -451,7 +451,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Perna",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://www.hipertrofia.org/blog/wp-content/uploads/2024/09/lever-seated-hip-abduction.gif",
     },
     {
       id: "50",
@@ -460,7 +460,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Perna",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://epulari.cdn.magazord.com.br/img/2022/05/blog/8730/musculatura-envolvida-no-agachamento.jpg",
     },
     {
       id: "51",
@@ -469,7 +469,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Perna",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://www.mundoboaforma.com.br/wp-content/uploads/2020/11/agachamento-no-rack.gif",
     },
     {
       id: "52",
@@ -478,7 +478,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Perna",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://static.wixstatic.com/media/00b9a7_63e3402c41b74b16a2bbecf76bb4e01c~mv2.gif",
     },
     {
       id: "53",
@@ -487,7 +487,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Perna",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://www.lyfta.app/_next/image?url=https://lyfta.app/images/exercises/22861101.png&w=640&q=80",
     },
     {
       id: "54",
@@ -496,7 +496,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Perna",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://www.racegym.com.br/wp-content/uploads/2021/04/Apolete-RG3.jpg",
     },
     {
       id: "55",
@@ -505,7 +505,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Perna",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWH_KxwMR_c5m6B95sKh8nQh-mOZlSPfMCg&s",
     },
     {
       id: "56",
@@ -514,7 +514,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Perna",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://treinomestre.com.br/wp-content/uploads/2022/08/panturrilha-em-pe-bilateral-flexao-plantar.png",
     },
     {
       id: "57",
@@ -523,7 +523,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Perna",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://www.flex.ind.br/wp-content/uploads/2019/05/maquina-leg-press-bi-articulado-escamoteavel-flex-fitness-supreme.png",
     },
     {
       id: "58",
@@ -532,7 +532,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Perna",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://treinoemalta.com.br/wp-content/uploads/2023/07/Elevacao-Pelvica.gif",
     },
     {
       id: "59",
@@ -541,7 +541,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Perna",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://arcielo.com.br/wp-content/uploads/2021/01/LGA010-GLUTEO-4-APOIOS-ARTICULADO.png",
     },
     {
       id: "60",
@@ -550,7 +550,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Perna",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://static.wixstatic.com/media/00b9a7_63e3402c41b74b16a2bbecf76bb4e01c~mv2.gif",
     },
     {
       id: "62",
@@ -559,7 +559,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Perna",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://image.tuasaude.com/media/article/cu/uv/agachamento-hack_75592.gif?width=686&height=487",
     },
     {
       id: "63",
@@ -568,7 +568,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Perna",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://www.mundoboaforma.com.br/wp-content/uploads/2021/03/Elevacao-de-panturrilha-sentado-com-barra.gif",
     },
     {
       id: "64",
@@ -577,7 +577,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Perna",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://www.mundoboaforma.com.br/wp-content/uploads/2021/04/pernas-flexao-de-pernas-na-maquina.gif",
     },
     {
       id: "65",
@@ -586,7 +586,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Perna",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://proactionfitness.com.br/wp-content/uploads/2023/05/Leg-Press-180-1.png",
     },
     {
       id: "66",
@@ -595,7 +595,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Perna",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://image.tuasaude.com/media/article/qu/vm/agachamento-sumo_75036.gif?width=686&height=487",
     },
     {
       id: "67",
@@ -604,7 +604,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Perna",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://www.mundoboaforma.com.br/wp-content/uploads/2020/11/coice-no-cabo.gif",
     },
     {
       id: "68",
@@ -613,7 +613,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Perna",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://www.hipertrofia.org/blog/wp-content/uploads/2023/03/lever-standing-calf-raise.gif",
     },
     {
       id: "69",
@@ -622,7 +622,7 @@ function ListaTreinos() {
       peso: 40,
       series: 4,
       grupo: "Perna",
-      img: "https://i.imgur.com/cJ8Z0Jv.jpeg",
+      img: "https://static.strengthlevel.com/images/exercises/standing-leg-curl/standing-leg-curl-800.jpg",
     },
   ];
 
@@ -640,13 +640,13 @@ function ListaTreinos() {
 
           <SelectContent>
             <SelectItem value="Todos">Todos</SelectItem>
-            <SelectItem value="Peito">Peito</SelectItem>
-            <SelectItem value="Costas">Costas</SelectItem>
+            <SelectItem value="Peito">Segunda</SelectItem>
+            <SelectItem value="Costas">Terça</SelectItem>
+            <SelectItem value="Ombro/Trapézio">Quarta</SelectItem>
+            <SelectItem value="Bíceps">Quinta</SelectItem>
+            <SelectItem value="Tríceps">Sexta</SelectItem>
+            <SelectItem value="Abdômen">Sabado</SelectItem>
             <SelectItem value="Perna">Perna</SelectItem>
-            <SelectItem value="Ombro/Trapézio">Ombro/Trapézio</SelectItem>
-            <SelectItem value="Bíceps">Bíceps</SelectItem>
-            <SelectItem value="Tríceps">Tríceps</SelectItem>
-            <SelectItem value="Abdômen">Abdômen</SelectItem>
           </SelectContent>
         </Select>
       </div>
