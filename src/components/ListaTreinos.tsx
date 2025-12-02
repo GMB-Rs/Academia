@@ -640,12 +640,12 @@ function ListaTreinos() {
 
           <SelectContent>
             <SelectItem value="Todos">Todos</SelectItem>
-            <SelectItem value="Peito">Segunda</SelectItem>
-            <SelectItem value="Costas">Terça</SelectItem>
-            <SelectItem value="Ombro/Trapézio">Quarta</SelectItem>
-            <SelectItem value="Bíceps">Quinta</SelectItem>
-            <SelectItem value="Tríceps">Sexta</SelectItem>
-            <SelectItem value="Abdômen">Sabado</SelectItem>
+            <SelectItem value="Peito">Peito</SelectItem>
+            <SelectItem value="Costas">Costas</SelectItem>
+            <SelectItem value="Ombro/Trapézio">Ombro/Trapézio</SelectItem>
+            <SelectItem value="Bíceps">Bíceps</SelectItem>
+            <SelectItem value="Tríceps">Tríceps</SelectItem>
+            <SelectItem value="Abdômen">Abdõmen</SelectItem>
             <SelectItem value="Perna">Perna</SelectItem>
           </SelectContent>
         </Select>
